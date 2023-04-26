@@ -1,2 +1,2 @@
 # REDuce
-testing the effect of dimensionality on classification and
+testing the effect of dimensionality on classification
